@@ -1,2 +1,2 @@
-# Python-Fundamentos
-Exercícios realizados durante o curso de fundamentos de Python!
+# Python
+Exercícios realizados durante o curso desenvolvimento em Python.
