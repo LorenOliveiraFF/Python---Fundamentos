@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e801a6-4ef0-4ad2-869c-1f04fb7ca97d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XVw4TTosMYtgMxO4itls8gCYEQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/loren/PycharmProjects/Python[1]"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\loren\PycharmProjects\Python[1]" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e801a6-4ef0-4ad2-869c-1f04fb7ca97d" name="Changes" comment="" />
+      <created>1698727363512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698727363512</updated>
+    </task>
+    <servers />
+  </component>
+</project>
