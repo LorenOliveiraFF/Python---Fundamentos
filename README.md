@@ -1,3 +1,8 @@
-# Curso - Python
+# Python - Coleções, Funções, Modularização 
 
-Curso 3
+- tuplas
+- listas
+- dicionários
+- funções
+- modularização
+- tratamento de erros
