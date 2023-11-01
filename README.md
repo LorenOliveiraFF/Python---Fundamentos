@@ -1,4 +1,4 @@
-# Python - Coleções, Funções, Modularização 
+# Python - Coleções, Funções, Modularização e Trat. Erros
 
 - tuplas
 - listas
